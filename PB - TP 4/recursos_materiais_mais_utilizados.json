@@ -1,0 +1,17 @@
+[
+    {
+        "tipo_recurso": "financeiro",
+        "descricao_recurso": "Implementação de ERP - Consultoria",
+        "quantidade_utilizada": 50000
+    },
+    {
+        "tipo_recurso": "financeiro",
+        "descricao_recurso": "Atualização de Infraestrutura - Orçamento",
+        "quantidade_utilizada": 20000
+    },
+    {
+        "tipo_recurso": "financeiro",
+        "descricao_recurso": "Desenvolvimento de Aplicativo - Investimento inicial",
+        "quantidade_utilizada": 15000
+    }
+]

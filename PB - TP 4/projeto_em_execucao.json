@@ -1,0 +1,16 @@
+[
+    {
+        "nome_projeto": "Implementação de ERP",
+        "custo": 75000,
+        "data_inicio": "2024-01-21",
+        "data_conclusao": "",
+        "funcionario_responsavel": 4
+    },
+    {
+        "nome_projeto": "Atualização de Infraestrutura",
+        "custo": 50000,
+        "data_inicio": "2023-03-01",
+        "data_conclusao": "",
+        "funcionario_responsavel": 8
+    }
+]

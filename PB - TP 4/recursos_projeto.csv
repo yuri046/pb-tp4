@@ -1,0 +1,12 @@
+id_recurso,id_projeto,descricao_recurso,tipo_recurso,quantidade_utilizada
+1,1,Desenvolvimento de Site - Horas de trabalho,humano,120.00
+2,1,Desenvolvimento de Site - Software licenças,material,15.00
+3,2,Implementação de ERP - Consultoria,financeiro,50000.00
+4,2,Implementação de ERP - Equipamentos,material,30.00
+5,3,Campanha de Marketing - Equipe criativa,humano,200.00
+6,4,Atualização de Infraestrutura - Servidores,material,10.00
+7,4,Atualização de Infraestrutura - Técnicos de TI,humano,150.00
+8,4,Atualização de Infraestrutura - Orçamento,financeiro,20000.00
+9,5,Desenvolvimento de Aplicativo - Desenvolvedores,humano,180.00
+10,5,Desenvolvimento de Aplicativo - Ferramentas de desenvolvimento,material,20.00
+11,5,Desenvolvimento de Aplicativo - Investimento inicial,financeiro,15000.00

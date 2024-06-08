@@ -1,0 +1,8 @@
+id_projeto,nome_projeto,descricao,data_inicio,data_conclusao,funcionario_responsavel,custo,status
+1,Desenvolvimento de Site,Criação de um site corporativo para a empresa,2024-02-15,2024-04-15,3,15000,Concluido
+2,Implementação de ERP,Implementação de sistema ERP para gestão empresarial,2024-01-21,,4,75000,Em andamento
+3,Campanha de Marketing,Lançamento de campanha publicitária para novo produto,,,7,20000,Em planejamento
+4,Atualização de Infraestrutura,Migração de servidores para nova infraestrutura,2023-03-01,,8,50000,Em andamento
+5,Desenvolvimento de Aplicativo,Mobilização de aplicativo para interação com clientes,,,10,30000,Em planejamento
+
+
